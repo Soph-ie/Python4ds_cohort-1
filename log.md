@@ -12,11 +12,13 @@ Learnt more about iPython
 
 ## Week 2: Chapter 2: Introduction to Numpy
 
-**This week's Progress**:
+**This week's Progress**: I managed to take a few hours off my day and read the chapter on numpy as well as practice a bit of  it on the cognitive labs by IBM
 
-**Thoughts**:
+**Thoughts**: It took me out of my comfort zone but was quite interesting
 
-**Link to work**:
+**Link to work**:https://gist.github.com/3c48e2dcd6e302cd9c62d2d0c3811ef4
+
+
 
 ## Week 3: Chapter 3: Data Manipulation with Pandas
 
