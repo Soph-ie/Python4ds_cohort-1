@@ -17,6 +17,9 @@ Learnt more about iPython
 **Thoughts**: It took me out of my comfort zone but was quite interesting
 
 **Link to work**:https://gist.github.com/3c48e2dcd6e302cd9c62d2d0c3811ef4
+                :https://gist.github.com/5b50c5978ce5a83069c8304dfe4a5628
+
+
 
 
 
